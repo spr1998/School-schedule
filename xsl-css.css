@@ -1,0 +1,61 @@
+
+/*.form-control {
+    width: auto;
+}*/
+/*.boxed {
+
+    width: 500px;
+    border: 3px solid #405f98;
+    padding: 35px;
+    margin: 30px;
+    height: 550px;
+}*/
+#afisho {
+    background: white;
+    width: 130px;
+    padding: 10px;
+    border-radius: 6px;
+    color: black;
+}
+
+.degree{
+    padding: 10px;
+    border-radius: 8px;
+    background: #6f5858;
+    color: white;
+    margin-top: 2%;
+}
+
+.year{
+    padding: 10px;
+    border-radius: 8px;
+    background: #6f5858;
+    color: white;
+}
+
+.paraleli{
+    padding: 10px;
+    border-radius: 8px;
+    background: #6f5858;
+    color: white;
+}
+
+
+#header{
+    width: 30%;
+    background: #d4c0c0;
+
+}
+
+th {
+    border-bottom: 1px solid #ddd;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    font-size: smaller;
+    padding: 10px;
+}
